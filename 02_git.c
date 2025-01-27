@@ -6,5 +6,6 @@ int main() {
     int i = 10;
     printf("Change git : %d", i * 2);
     printf("Try to add and update git");
+    printf("This code I try to change code form github and pull from vscode");
 return 0;
 }
